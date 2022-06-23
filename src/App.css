@@ -1,0 +1,87 @@
+p{
+  display:block;
+}
+.para {
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin-top: 0;
+    margin-bottom: 1rem;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    display:block;
+    text-align: center;
+    box-sizing:border-box;
+}
+h1{
+  margin-bottom: 0.5rem;
+    font-family: inherit;
+}
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+  .text-center {
+    text-align: center!important;
+}
+
+.Container{
+  text-align: center;
+}
+p{
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+a:hover {
+  color: #0056b3;
+ 
+}
+nav{
+  display:block;
+}
+.Navbar ul{
+  margin-right: 0px;
+ padding:0;
+  list-style: none;
+  display:flex;
+  justify-content: right;
+}
+.Navbar li{
+  display:inline-block;
+  
+}
+h1{
+  display: block;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.mr-md-auto, .mx-md-auto {
+  margin-right: auto!important;
+}
+.pricing-header {
+  max-width: 700px;
+}
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
